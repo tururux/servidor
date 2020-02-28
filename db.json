@@ -26,24 +26,6 @@
     "producer": "Hayao Miyazaki",
     "release_date": "1988",
     "rt_score": "93"
-  },
-  {
-    "id": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
-    "title": "Kiki's Delivery Service",
-    "description": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
-    "id_director": "D-01-003",
-    "producer": "Hayao Miyazaki",
-    "release_date": "1989",
-    "rt_score": "96"
-  },
-  {
-    "id": "4e236f34-b981-41c3-8c65-f8c9000b94e7",
-    "title": "Only Yesterday",
-    "description": "It's 1982, and Taeko is 27 years old, unmarried, and has lived her whole life in Tokyo. She decides to visit her family in the countryside, and as the train travels through the night, memories flood back of her younger years: the first immature stirrings of romance, the onset of puberty, and the frustrations of math and boys. At the station she is met by young farmer Toshio, and the encounters with him begin to reconnect her to forgotten longings. In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
-    "id_director": "D-02-010",
-    "producer": "Toshio Suzuki",
-    "release_date": "1991",
-    "rt_score": "100"
   }
  ],
 "directores": [ 
@@ -94,22 +76,6 @@
     "age": "Adult",
     "eye_color": "Black",
     "hair_color": "Brown"
-  },
-  {
-    "id": "8bccdc78-545b-49f4-a4c8-756163a38c91",
-    "name": "Gonza",
-    "gender": "Male",
-    "age": "Adult",
-    "eye_color": "Grey",
-    "hair_color": "Bald, but beard is Brown"
-  },
-  {
-    "id": "116bfe1b-3ba8-4fa0-8f72-88537a493cb9",
-    "name": "Hii-sama",
-    "gender": "Female",
-    "age": "Over 50",
-    "eye_color": "Brown",
-    "hair_color": "White"
   }],
 
 "actor_peliculas" : [
@@ -121,24 +87,6 @@
   },
   {
     "id_actor": "ebe40383-aad2-4208-90ab-698f00c581ab",
-    "id_peliculas": [
-      "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
-    ]
-  },
-  {
-    "id_actor": "34277bec-7401-43fa-a00a-5aee64b45b08",
-    "id_peliculas": [
-      "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
-    ]
-  },
-  {
-    "id_actor": "91939012-90b9-46e5-a649-96b898073c82",
-    "id_peliculas": [
-      "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
-    ]
-  },
-  {
-    "id_actor": "20e3bd33-b35d-41e6-83a4-57ca7f028d38",
     "id_peliculas": [
       "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
     ]
